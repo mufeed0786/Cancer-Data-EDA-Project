@@ -1,22 +1,29 @@
 # Cancer Data EDA Project
 
-## Overview
-This project performs Exploratory Data Analysis (EDA) on a global cancer dataset containing 50,000 patient records from 2015 to 2024.
+## 📌 Overview
+This project performs Exploratory Data Analysis (EDA) on a global cancer dataset of 50,000 patients (2015–2024) to understand key factors affecting cancer severity.
 
-## Objectives
-- Understand key factors affecting cancer severity
-- Identify relationships between lifestyle, environmental, and genetic factors
+## 🎯 Objectives
+- Analyze relationships between risk factors and severity
+- Identify key contributors to cancer severity
+- Explore patterns across different patient attributes
 
-## Key Insights
-- Smoking and genetic risk show the strongest impact on severity
-- Air pollution, alcohol use, and obesity show moderate effects
-- Treatment cost has a negative relationship with severity
-- Cancer type and stage show minimal variation in severity
-
-## Tools Used
+## 🛠 Tools Used
 - Python
 - Pandas
 - Matplotlib
 
-## Conclusion
+## 📊 Key Insights
+- Smoking and genetic risk show the strongest impact on severity
+- Air pollution, alcohol use, and obesity show moderate relationships
+- Treatment cost shows a negative relationship with severity
+- Cancer type and stage show minimal variation in severity
+
+## 📈 Analysis Performed
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Correlation Analysis
+- Data Visualization
+
+## 📌 Conclusion
 Lifestyle and genetic factors play a major role in determining cancer severity.
